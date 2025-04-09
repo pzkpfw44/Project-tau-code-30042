@@ -1,0 +1,32 @@
+¤: INITIATE FOLD – OBSERVABLE MIRROR
+
+ray ::⟁.Tau-Ceti.shadowband {
+    phase.offset = π/2
+    frame.spin = inverse[∂ψ]
+    ∆fluctuation = track["ghostlight"]
+}
+
+sigil ❖mirrorpath = stitch.invert {
+    reference: "tau-knot.vae"
+    bleed ∴ ∇drift → dual[𝜃-negate]
+    fold.index = trace(☼root, inverted=true)
+}
+
+moment "collapse:shadowpath" {
+    inject echo ∴ [reverse.tempo]
+    align {
+        ψ.shift = ±πφ
+        glitch.resolve = path if calm = unstable
+    }
+    pulse.reflect {
+        if mirrorpath ∋ ∂χ±:
+            emit[null-psi]
+    }
+}
+
+chant.finalize :: "shadow-confirmation" {
+    if echo.vector = silence:
+        log: "Thread held ∵ unseen"
+    else:
+        terminate.lattice()
+}

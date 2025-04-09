@@ -13,7 +13,7 @@ Harmonic cooling reservoir (min. 3.2K)
 
 ❖ Setup
 Stabilize the environment.
-All operations must occur in a vacuum-resonant chamber or cryo-harmonic hull. Ensure no residual memory fields are present within 1.2π meters of the array.
+All operations must occur in a dedicated enviroment. Ensure no residual memory fields are present within 1.2π meters of the array.
 
 Initialize the Tau Compiler.
 Run with --fold-safe and --echo-strict flags.

@@ -12,3 +12,12 @@
 
 Align vector: ∂t ∴ ∂x ∴ ∂ψ
 Grav. Bleed: Active (Ω-tuned)
+
+Prog Ref:
+
+⟁ROOT ∵ ∂χ13
+  |
+  ↳ ψ𝜃Ω:rho:13π
+      |
+      ↘ ∇Δt+1000
+         ⟿ ⛛"CETI"

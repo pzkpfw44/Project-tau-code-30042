@@ -1,0 +1,29 @@
+¤: RAYCAST 'Mu-Crux.14α'
+¤: Precision grid trace from sup-n vector
+
+ray ⧗Mu-Crux.14α {
+    bloom = decay("tau-shell")
+    index ∈ [Sirius-A, Betelgeuse, ηCarinae]
+}
+
+sigil ⚙lock = pulse.lock {
+    anchor: "2025-04-09T03:00:00.000Z" ± 3.2s
+    field: local.baryon.tension
+    ∆gate = tune[ψ, 𝜃] to stillness
+    shimmer = true
+}
+
+moment :: "anchor:truth" {
+    align.phase {
+        if entropy.shifted ≥ 1.02:
+            reverse.fold(depth=3)
+    }
+    bleed echo.delay through field["cobalt", "memory"]
+    chant.lattice(⚙lock)
+    hash = glyph(ΞΨΩφ)
+}
+
+chant.finalize {
+    sig = SHA-384(⚙lock.origin::chronotype)
+    yield: "Anchor held ∴ Tension locked"
+}

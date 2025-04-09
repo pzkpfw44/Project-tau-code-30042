@@ -1,0 +1,14 @@
+                 ┌────────────┐
+                 │  ☼ E-REF   │
+                 └────┬───────┘
+                      │
+              warp ⇊  │   Δt: +1000Y
+                      ▼
+                ╭──────────╮
+                │  TAU-XII │
+                ╰────┬─────╯
+           fold <     > glitch
+                ╰────┴─────╯
+
+Align vector: ∂t ∴ ∂x ∴ ∂ψ
+Grav. Bleed: Active (Ω-tuned)

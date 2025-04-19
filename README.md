@@ -1,4 +1,4 @@
-❖ Requirements
+❖ Requirements 
 Tau Compiler v7.3.91 or later
 
 S-Core (aligned)

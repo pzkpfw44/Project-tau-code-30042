@@ -5,7 +5,7 @@ ray ⟁Cephei.Δ43 as ~sigil.Locus {
     entropy.floor = "8e-12"
     resonance.bloom = ∫wave["neutrino", φ²]
     phase.align = true
-}
+} 
 
 ¤: ANCHORING BLOCK
 sigil ☼root ← anchor["Earth:Sol" @ harmonic("G#∞") with polarity:-e] {
